@@ -6,7 +6,7 @@ Code 401 Lab 08 — Express Routing & Connected API
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/sueduclos-401-advanced-javascript/lab-08/pull/1)
 - [ci/cd]() (NA)
 - [back-end server url](NA) 
 - [front-end application](NA)
