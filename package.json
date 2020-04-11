@@ -1,0 +1,32 @@
+{
+  "name": "lab-08",
+  "version": "1.0.0",
+  "description": "Code 401 Lab 08 — Express Routing & Connected API",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint **/*.js",
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sueduclos-401-advanced-javascript/lab-08.git"
+  },
+  "author": "Sue Duclos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sueduclos-401-advanced-javascript/lab-08/issues"
+  },
+  "homepage": "https://github.com/sueduclos-401-advanced-javascript/lab-08#readme",
+  "dependencies": {
+    "@code-fellows/supergoose": "^1.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
